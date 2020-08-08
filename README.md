@@ -1,5 +1,7 @@
 ### Hi there 👋
 ### So, it seems that you've found my GitHub profile.
+
+_This will also be italic_
 <!--
 **MisterMozzarella/MisterMozzarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
-### Hi there 👋
-### So, it seems that you've found my GitHub profile.
+### Me: \*Adds a Readme to my Git*
+### Me:
 ![image](https://media.giphy.com/media/3knKct3fGqxhK/source.gif)
 
 <!--

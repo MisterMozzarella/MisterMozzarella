@@ -1,9 +1,8 @@
 ### Hi there 👋
 ### So, it seems that you've found my GitHub profile.
 
-_This will also be italic_
-
-:slam:
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 <!--
 **MisterMozzarella/MisterMozzarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

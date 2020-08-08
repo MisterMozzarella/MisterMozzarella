@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I LOVE CHEESE
-
+### So, it seems that you've found my GitHub profile.
 <!--
 **MisterMozzarella/MisterMozzarella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
